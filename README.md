@@ -1,2 +1,3 @@
-## canteen_Template
-  canteen_Template has the content of canteen_selling developed using php,ajax,javascript and mysql
+#canteen_Template
+
+![canteen_temp](https://cloud.githubusercontent.com/assets/15909091/19113343/cc4972ce-8b26-11e6-8900-d93632dfa01f.png)
